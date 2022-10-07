@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kiraz
+- 👋 Hi, I’m Kiraz Nur İnce 
 - 👀 I’m interested in Yazılım 
-- 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on software 
+- 🌱 I’m currently learning programming language and yazılım
+- 💞️ I’m looking to collaborate on software and programming language 
 - 📫 How to reach me : kirazince52@gmail.com
 
 <!---
